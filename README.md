@@ -1,4 +1,4 @@
-# ☕ Java Programming Fundamentals: Academic Coursework
+# Java Programming Fundamentals: Academic Coursework
 
 Repositori ini adalah dokumentasi lengkap perjalanan belajar saya dalam mata kuliah **Dasar Pemrograman**. Berisi implementasi kode Java yang mencakup pemahaman algoritma, struktur data dasar, hingga pemrograman modular.
 
